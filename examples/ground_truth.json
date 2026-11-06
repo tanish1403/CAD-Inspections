@@ -1,0 +1,8 @@
+{
+  "_note": "Per photo: 'absent' = parts that are really missing; every other VERIFIABLE part counts as present. Keys are matched as a suffix of 'case/photo' (longest key wins). Read from the sample images by eye - please verify against your own knowledge before quoting numbers.",
+  "BG_00":            {"absent": []},
+  "BG_00_TestImage":  {"absent": ["large_washer_1", "hex nut style 1 gradeab_iso-7_BRep_1.021"]},
+  "BG_00_TestImage2": {"absent": []},
+  "BG_00_TestImage3": {"absent": []},
+  "TestCase2/BG_00":  {"absent": ["Bolts_M8_1", "Bolts_M8_2"]}
+}

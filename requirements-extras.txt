@@ -1,0 +1,4 @@
+# Optional, only for some --vlm models
+bitsandbytes>=0.46.1   # --vlm_4bit  (7-8B VLMs on a 16 GB GPU), CUDA only.  Quote it in shells: pip install -U "bitsandbytes>=0.46.1"
+sentencepiece          # tokenizers of some VLMs
+protobuf

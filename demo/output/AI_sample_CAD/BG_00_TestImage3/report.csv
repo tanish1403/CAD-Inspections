@@ -1,0 +1,33 @@
+part,status,score,area_px,altered,note
+side_cover,UNVERIFIABLE,,1067,,visible only as a hairline in the CAD view (hidden behind other parts) - cannot be checked
+box,PRESENT,1.0,689365,,
+slanted_plate,UNVERIFIABLE,,87,,only 87 px visible - too small to judge (raise --max_side / lower --min_area_px)
+small_washer_2,UNVERIFIABLE,,191,,only 191 px visible - too small to judge (raise --max_side / lower --min_area_px)
+small_washer_1,UNVERIFIABLE,,143,,only 143 px visible - too small to judge (raise --max_side / lower --min_area_px)
+large_washer_5,PRESENT,0.981,3700,,
+large_washer_4,PRESENT,0.998,6590,,
+large_washer_3,PRESENT,0.985,3305,,
+large_washer_2,PRESENT,0.998,4459,,
+large_washer_1,PRESENT,0.996,6023,,
+M10_nuts_5,UNVERIFIABLE,,89,,only 89 px visible - too small to judge (raise --max_side / lower --min_area_px)
+M10_nuts_4,UNVERIFIABLE,,68,,only 68 px visible - too small to judge (raise --max_side / lower --min_area_px)
+M10_nuts_3,UNVERIFIABLE,,43,,only 43 px visible - too small to judge (raise --max_side / lower --min_area_px)
+M10_nuts_2,UNVERIFIABLE,,17,,only 17 px visible - too small to judge (raise --max_side / lower --min_area_px)
+M10_nuts_1,UNVERIFIABLE,,24,,only 24 px visible - too small to judge (raise --max_side / lower --min_area_px)
+M8_nuts_3,PRESENT,0.97,1774,,
+M8_nuts_6,UNVERIFIABLE,,72,,only 72 px visible - too small to judge (raise --max_side / lower --min_area_px)
+M8_nuts_5,UNVERIFIABLE,,33,,only 33 px visible - too small to judge (raise --max_side / lower --min_area_px)
+M8_nuts_4,UNVERIFIABLE,,21,,only 21 px visible - too small to judge (raise --max_side / lower --min_area_px)
+M8_nuts_1,UNVERIFIABLE,,102,,only 102 px visible - too small to judge (raise --max_side / lower --min_area_px)
+M8_nuts_2,UNVERIFIABLE,,31,,only 31 px visible - too small to judge (raise --max_side / lower --min_area_px)
+hex nut style 1 gradeab_iso-7_BRep_1.019,PRESENT,0.992,5218,,
+hex nut style 1 gradeab_iso-7_BRep_1.020,PRESENT,1.0,6385,,
+hex nut style 1 gradeab_iso-7_BRep_1.021,PRESENT,0.998,7927,,
+hex nut style 1 gradeab_iso-7_BRep_1.017,PRESENT,0.994,8110,True,structure present but pixels differ strongly from the golden reference (tampered / damaged?)
+hex nut style 1 gradeab_iso-7_BRep_1.018,PRESENT,0.997,5203,,
+hex nut style 1 gradeab_iso-7_BRep_1.003,PRESENT,1.0,828,,
+hex nut style 1 gradeab_iso-7_BRep_1.004,UNVERIFIABLE,,5,,only 5 px visible - too small to judge (raise --max_side / lower --min_area_px)
+hex nut style 1 gradeab_iso-7_BRep_1.001,UNVERIFIABLE,,0,,not visible in the CAD view (fully hidden) - cannot be checked
+hex nut style 1 gradeab_iso-7_BRep_1.002,UNVERIFIABLE,,0,,not visible in the CAD view (fully hidden) - cannot be checked
+hex nut style 1 gradeab_iso-7_BRep_1.027,UNVERIFIABLE,,0,,not visible in the CAD view (fully hidden) - cannot be checked
+hex nut style 1 gradeab_iso-7_BRep_1.028,PRESENT,1.0,1445,,

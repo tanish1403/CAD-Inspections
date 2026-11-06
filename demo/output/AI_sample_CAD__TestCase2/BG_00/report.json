@@ -1,0 +1,290 @@
+{
+  "Side cover 2": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "Side cover-1": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 1.0,
+    "area_px": 270910,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": null,
+    "shape": null,
+    "edge": 0.655,
+    "sam_iou": 0.0,
+    "log_area": -2.452
+  },
+  "Large_washer-2": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "Large_washer-3": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 10,
+    "note": "only 10 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "Large_washer-4": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 18,
+    "note": "only 18 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "Large_washer-5": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "Large_washer-1": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 21,
+    "note": "only 21 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "Small_Washer_2": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 729,
+    "note": "visible only as a hairline in the CAD view (hidden behind other parts) - cannot be checked"
+  },
+  "Small_Washer_1": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 502,
+    "note": "visible only as a hairline in the CAD view (hidden behind other parts) - cannot be checked"
+  },
+  "Nuts_M10_5": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "Nuts_M10_4": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 10,
+    "note": "only 10 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "Nuts_M10_3": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "Nuts_M10_2": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "Nuts_M10_1": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 38,
+    "note": "only 38 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "Bolts_M10_5": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.992,
+    "area_px": 2144,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 0.769,
+    "shape": 0.819,
+    "edge": 0.358,
+    "sam_iou": 0.0,
+    "log_area": -7.291
+  },
+  "Bolts_M10_4": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 841,
+    "note": "visible only as a hairline in the CAD view (hidden behind other parts) - cannot be checked"
+  },
+  "Bolts_M10_3": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 389,
+    "note": "only 389 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "Bolts_M10_2": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "Bolts_M10_1": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.984,
+    "area_px": 2352,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 1.05,
+    "shape": 0.884,
+    "edge": 0.239,
+    "sam_iou": 0.0,
+    "log_area": -7.199
+  },
+  "Nuts_M8_6": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "Nuts_M8_5": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 37,
+    "note": "only 37 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "Nuts_M8_4": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 61,
+    "note": "only 61 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "Nuts_M8_3": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 35,
+    "note": "only 35 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "Nuts_M8_2": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 1150,
+    "note": "visible only as a hairline in the CAD view (hidden behind other parts) - cannot be checked"
+  },
+  "Nuts_M8_1": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 13,
+    "note": "only 13 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "Bolts_M8_6": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "Bolts_M8_5": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "Bolts_M8_4": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 1.0,
+    "area_px": 5961,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 2.191,
+    "shape": 0.837,
+    "edge": 0.492,
+    "sam_iou": 0.0,
+    "log_area": -6.269
+  },
+  "Bolts_M8_3": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 1.0,
+    "area_px": 5791,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 1.587,
+    "shape": 0.962,
+    "edge": 0.515,
+    "sam_iou": 0.0,
+    "log_area": -6.297
+  },
+  "Bolts_M8_2": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.765,
+    "area_px": 6071,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 2.674,
+    "shape": 0.716,
+    "edge": 0.114,
+    "sam_iou": 0.0,
+    "log_area": -6.25
+  },
+  "Bolts_M8_1": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.85,
+    "area_px": 6140,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 1.406,
+    "shape": 0.652,
+    "edge": 0.138,
+    "sam_iou": 0.0,
+    "log_area": -6.239
+  },
+  "Box": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 1.0,
+    "area_px": 838638,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": null,
+    "shape": null,
+    "edge": 0.837,
+    "sam_iou": 0.0,
+    "log_area": -1.322
+  }
+}

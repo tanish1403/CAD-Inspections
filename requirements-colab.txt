@@ -1,0 +1,7 @@
+# Google Colab / Kaggle already ship torch, numpy, opencv, matplotlib, pandas - do NOT reinstall them.
+transformers>=4.45
+huggingface_hub>=0.23
+accelerate>=0.30
+scikit-learn>=1.3
+pillow>=10.0
+streamlit>=1.50

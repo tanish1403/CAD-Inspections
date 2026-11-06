@@ -1,0 +1,338 @@
+{
+  "side_cover": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 1067,
+    "note": "visible only as a hairline in the CAD view (hidden behind other parts) - cannot be checked"
+  },
+  "box": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 1.0,
+    "area_px": 689365,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": null,
+    "shape": null,
+    "edge": 0.925,
+    "sam_iou": 0.0,
+    "log_area": -1.518
+  },
+  "slanted_plate": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 87,
+    "note": "only 87 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "small_washer_2": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 191,
+    "note": "only 191 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "small_washer_1": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 143,
+    "note": "only 143 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "large_washer_5": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.98,
+    "area_px": 3700,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 0.975,
+    "shape": 0.74,
+    "edge": 0.231,
+    "sam_iou": 0.0,
+    "log_area": -6.745
+  },
+  "large_washer_4": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.995,
+    "area_px": 6590,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 1.007,
+    "shape": 0.706,
+    "edge": 0.289,
+    "sam_iou": 0.0,
+    "log_area": -6.168
+  },
+  "large_washer_3": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.985,
+    "area_px": 3305,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 0.922,
+    "shape": 0.696,
+    "edge": 0.245,
+    "sam_iou": 0.0,
+    "log_area": -6.858
+  },
+  "large_washer_2": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.998,
+    "area_px": 4459,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 0.924,
+    "shape": 0.87,
+    "edge": 0.364,
+    "sam_iou": 0.0,
+    "log_area": -6.559
+  },
+  "large_washer_1": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.996,
+    "area_px": 6023,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 0.837,
+    "shape": 0.855,
+    "edge": 0.511,
+    "sam_iou": 0.0,
+    "log_area": -6.258
+  },
+  "M10_nuts_5": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 89,
+    "note": "only 89 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "M10_nuts_4": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 68,
+    "note": "only 68 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "M10_nuts_3": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 43,
+    "note": "only 43 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "M10_nuts_2": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 17,
+    "note": "only 17 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "M10_nuts_1": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 24,
+    "note": "only 24 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "M8_nuts_3": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.949,
+    "area_px": 1774,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 0.644,
+    "shape": 0.771,
+    "edge": 0.216,
+    "sam_iou": 0.0,
+    "log_area": -7.481
+  },
+  "M8_nuts_6": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 72,
+    "note": "only 72 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "M8_nuts_5": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 33,
+    "note": "only 33 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "M8_nuts_4": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 21,
+    "note": "only 21 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "M8_nuts_1": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 102,
+    "note": "only 102 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "M8_nuts_2": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 31,
+    "note": "only 31 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.019": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.992,
+    "area_px": 5218,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 1.43,
+    "shape": 0.915,
+    "edge": 0.264,
+    "sam_iou": 0.0,
+    "log_area": -6.402
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.020": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 1.0,
+    "area_px": 6385,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 1.388,
+    "shape": 0.875,
+    "edge": 0.431,
+    "sam_iou": 0.0,
+    "log_area": -6.2
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.021": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.998,
+    "area_px": 7927,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 0.938,
+    "shape": 0.903,
+    "edge": 0.392,
+    "sam_iou": 0.0,
+    "log_area": -5.984
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.017": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.994,
+    "area_px": 8110,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 1.098,
+    "shape": 0.875,
+    "edge": 0.281,
+    "sam_iou": 0.0,
+    "log_area": -5.961
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.018": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 0.997,
+    "area_px": 5203,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 1.7,
+    "shape": 0.911,
+    "edge": 0.3,
+    "sam_iou": 0.0,
+    "log_area": -6.405
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.003": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 1.0,
+    "area_px": 828,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 1.164,
+    "shape": 0.669,
+    "edge": 0.537,
+    "sam_iou": 0.0,
+    "log_area": -8.243
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.004": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 5,
+    "note": "only 5 px visible - too small to judge (raise --max_side / lower --min_area_px)"
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.001": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.002": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.027": {
+    "status": "UNVERIFIABLE",
+    "present": null,
+    "score": null,
+    "area_px": 0,
+    "note": "not visible in the CAD view (fully hidden) - cannot be checked"
+  },
+  "hex nut style 1 gradeab_iso-7_BRep_1.028": {
+    "status": "PRESENT",
+    "present": true,
+    "score": 1.0,
+    "area_px": 1445,
+    "tight": 0.0,
+    "local": 0.0,
+    "bg": 0.0,
+    "margin": 0.0,
+    "contrast": 2.046,
+    "shape": 0.754,
+    "edge": 0.438,
+    "sam_iou": 0.0,
+    "log_area": -7.686
+  }
+}

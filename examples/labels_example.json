@@ -1,0 +1,13 @@
+{
+  "_note": "Labels of your REAL photos: 1 = present, 0 = absent. Keys match as a suffix of 'case/photo' (longest wins), so they work whatever your input folder is called. Parts not listed fall back to --ref_glob / confident classical predictions.",
+  "BG_00_TestImage": {
+    "large_washer_1": 0,
+    "hex nut style 1 gradeab_iso-7_BRep_1.021": 0
+  },
+  "TestCase2/BG_00": {
+    "Bolts_M8_1": 0,
+    "Bolts_M8_2": 0,
+    "Bolts_M8_3": 1,
+    "Bolts_M8_4": 1
+  }
+}
